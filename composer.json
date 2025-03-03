@@ -10,6 +10,7 @@
         "doctrine/doctrine-bundle": "^2.11",
         "doctrine/doctrine-migrations-bundle": "^3.3",
         "doctrine/orm": "^2.17",
+        "friends-of-behat/mink-extension": "*",
         "symfony/console": "6.4.*",
         "symfony/dotenv": "6.4.*",
         "symfony/flex": "^2.4",
@@ -18,6 +19,7 @@
         "symfony/yaml": "6.4.*"
     },
     "require-dev": {
+        "behat/behat": "^3.19",
         "phpunit/phpunit": "^10.4",
         "symfony/maker-bundle": "^1.52",
         "symfony/stopwatch": "6.4.*",
